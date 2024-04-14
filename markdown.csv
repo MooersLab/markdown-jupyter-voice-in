@@ -1,0 +1,134 @@
+display electron density equation,$$\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textstyle\sum\limits_{l} |F (hkl)| \exp [- 2 \pi i (hx + ky + lz)+ i \alpha (hkl)]$$
+equation electron density,\begin{equation}\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textstyle\sum\limits_{l} |F (hkl)| \exp [- 2 \pi i (hx + ky + lz)+ i \alpha (hkl)]\end{equation}
+header 1,# Header 1
+header one,# Header 1
+head or one,# Header 1
+head of one,# Header 1
+head of 1,# Header 1
+head or 1,# Header 1
+headed to,## Header 2
+header 2,## Header 2
+header to,## Header 2
+header 2,## Header 2
+header 2,## Header 2
+header 2,## Header 2
+header 2,## Header 2
+header two,## Header 2
+header two,## Header 2
+header to,## Header 2
+head or two,## Header 2
+header too,## Header 2
+head or two,## Header 2
+head of two,## Header 2
+header to,## Header 2
+header to,## Header 2
+header three,### Header 3
+header 3,### Header 3
+head or three,### Header 3
+header three,### Header 3
+head or three,### Header 3
+head her four,## Header 4
+head her for,## Header 4
+head her 4,## Header 4
+header 4,#### Header 4
+header four,#### Header 4
+head or four,#### Header 4
+header four,#### Header 4
+header for,#### Header 4
+head of four,#### Header 4
+head of 4,#### Header 4
+header five,##### Header 5
+header 5,##### Header 5
+head or 5,#### Header 5
+head or five,##### Header 5
+head of 5,##### Header 5
+head of five,##### Header 5
+header 6,###### Header 6
+header six,###### Header 6
+head or six,###### Header 6
+head or 6,###### Header 6
+header six,#### Header 6
+header six,###### Header 6
+head or six,###### Header 6
+head of six,###### Header 6
+head or 6,###### Header 6
+head of 6,###### Header 6
+markdown bold text,**bold text**
+bold text,**bold text**
+markdown italics text,*italic text*
+italics text,*italic text*
+markdown bold italic text,***bold italic text***
+bold italic text,***bold italic text***
+markdown strike through text,~~strike through text~~
+strike through text,~~strike through text~~
+markdown nested blocks,"> some text
+>> and then some more text
+>>> and then some more"
+nested blocks,"> some text
+>> and then some more text
+>>> and then some more"
+markdown horizontal line,---
+horizontal line,---
+ordered list,"1. xxxx 
+2. yyyy
+3. zzzz"
+markdown ordered list,"1. xxxx 
+2. yyyy
+3. zzzz"
+markdown ordered list,"1. xxxx 
+2. yyyy
+3. zzzz"
+unordered list,"- aaaaa 
+- bbbbb
+- ccccc"
+markdown unordered list,"- aaaaa 
+- bbbbb
+- ccccc"
+markdown image,![](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png "Python Logo")
+hyperlink,[click me](https://en.wikipedia.org "Wikipedia")
+anchor link,[Section title](#My-Great-Heading)
+task list,"- [x] A1 task
+- [ ] A2 task
+- [ ] A3 task
+- [ ] B1 task
+- [ ] B2 task
+- [ ] C1 task
+"
+python code block,"```python
+s = 'Python syntax highlighting'
+print s
+```"
+table right aligned,"|Header|Header|Header|
+|------:|------:|------:|
+|A     |B     |C     |
+|X     |Y     |Z     |"
+table centered,"|Header|Header|Header|
+|:------:|:------:|:------:|
+|A     |B     |C     |
+|X     |Y     |Z     |"
+table left aligned,"|Header|Header|Header|
+|:------|:------|:------|
+|A     |B     |C     |
+|X     |Y     |Z     |"
+markdown definition list,"<dl>
+<dt>First Term</dt>
+<dd>This is the definition of the first term.</dd>
+<dt>Second Term</dt>
+<dd>This is one definition of the second term. </dd>
+<dd>This is another definition of the second term.</dd>
+</dl>"
+definition list,"<dl>
+<dt>First Term</dt>
+<dd>This is the definition of the first term.</dd>
+<dt>Second Term</dt>
+<dd>This is one definition of the second term. </dd>
+<dd>This is another definition of the second term.</dd>
+</dl>"
+markdown navigation menu,"<nav> <a href='https://www.google.com'>Google.com </a> |
+<a href='https://www.GitHub.com/MooersLab'>MooersLab </a> |
+<a href='https://www.medium.com'>Medium </a> |
+</nav>"
+navigation menu,"<nav> <a href='https://www.google.com'>Google.com </a> |
+<a href='https://www.GitHub.com/MooersLab'>MooersLab </a> |
+<a href='https://www.medium.com'>Medium </a> |
+</nav>"
