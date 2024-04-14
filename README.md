@@ -20,5 +20,8 @@ This is a collection of voice snippets to support writing in markdown cells of J
 
 
 ## Funding
-NIH R01 CA242845, R01 AI088011, P30 CA225520 (PI: R. Mannel); P20GM103640 and P30GM145423 (PI: A. West)
+- NIH R01 CA242845
+- NIH R01 AI088011
+- NIH P30 CA225520 (PI: R. Mannel)
+- NIH P20GM103640 and P30GM145423 (PI: A. West)
 
