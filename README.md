@@ -3,13 +3,15 @@
 
 # Markdown snippets for Jupyter in Voice-In Plus
 
-This is a collection of voice snippets to support writing in markdown cells of Jupyter notebooks using the Voice In Plus plug-in for Google Chrome and Microsoft Edge web browsers.
+This is a collection of about 90 voice snippets to support writing in markdown cells of Jupyter notebooks using the Voice In Plus plug-in for Google Chrome and Microsoft Edge web browsers.  
+The voice triggers and their associated text replacements are stored in the left and right  columns /CSV file.
 
-1. Load the markdown.csv file by copying its contents and pasting it into the text area of the **bulk add** button on the configuration page for your Voice In Plus account.
-2. Any existing voice commands with the same voice trigger (i.e., voice command) will be overwritten.
+
+1. Load the markdown.csv file by copying its contents and pasting these into the text area opened by double-clicking on the **bulk add** button on the configuration page for your Voice In Plus account.
+2. Any existing voice commands with the same voice trigger (i.e., voice command in the left column) will be overwritten.
 3. Convert an empty code cell into a markdown cell by entering `m`.
 4. Activate the Voice-In plugin (I use the option-L key binding on my Mac).
-6. Say the name of the voice snippet to invoke the insertion of the corresponding code fragment.
+6. Say the voice trigger to invoke the insertion of the corresponding code fragment.
 7. Deactivate the Voice-In plugin (not always essential).
 8. Hit Control-Enter to execute the markdown code block when ready to render it.
 
@@ -18,7 +20,7 @@ This is a collection of voice snippets to support writing in markdown cells of J
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.1 |  Initiated  with 90 voice snippets. Added badges and update table                                                                          | 2024 April 14        |
-| Version 0.2 |  Clarified the instructions in the README.md file.                                                                                         |  2024  April 20      | 
+| Version 0.2 |  Clarified the instructions in the README.md file.                                                                                         | 2024  April 20      | 
 
 ## Funding
 - NIH R01 CA242845
