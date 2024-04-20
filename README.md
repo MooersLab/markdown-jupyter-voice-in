@@ -1,23 +1,24 @@
-![Version](https://img.shields.io/static/v1?label=markdown-jupyter-voice-in&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=markdown-jupyter-voice-in&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Markdown snippets for Jupyter in Voice-In Plus
 
 This is a collection of voice snippets to support writing in markdown cells of Jupyter notebooks using the Voice In Plus plug-in for Google Chrome and Microsoft Edge web browsers.
 
-1. Load the markdown.csv file through the book add button on the configuration page for Voice In Plus.
+1. Load the markdown.csv file by copying its contents and pasting it into the text area of the **bulk add** button on the configuration page for your Voice In Plus account.
 2. Any existing voice commands with the same voice trigger (i.e., voice command) will be overwritten.
-3. Survival is to be absorbed by a singular palestinianActivate the plugin after opening up a Jupyter notebook.
-4. Convert a code cell into a markdown cell by entering `m`.
-5. Say the name of the voice snippet to invoke the insertion of the corresponding code fragment.
-6. Hit Control-Enter to execute the markdown code block when you are ready to have it rendered.
+3. Convert an empty code cell into a markdown cell by entering `m`.
+4. Activate the Voice-In plugin (I use the option-L key binding on my Mac).
+6. Say the name of the voice snippet to invoke the insertion of the corresponding code fragment.
+7. Deactivate the Voice-In plugin (not always essential).
+8. Hit Control-Enter to execute the markdown code block when ready to render it.
 
 
 ## Update Table
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.1 |  Added badges and update table                                                                                                             | 2024 April 14        |
-
+| Version 0.2  |  Clarified the instructions in the README.md file.                                                                                         |  2024  April 20      | 
 
 ## Funding
 - NIH R01 CA242845
