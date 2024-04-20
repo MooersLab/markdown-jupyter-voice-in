@@ -17,8 +17,8 @@ This is a collection of voice snippets to support writing in markdown cells of J
 ## Update Table
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.1 |  Added badges and update table                                                                                                             | 2024 April 14        |
-| Version 0.2  |  Clarified the instructions in the README.md file.                                                                                         |  2024  April 20      | 
+| Version 0.1 |  Initiated  with 90 voice snippets. Added badges and update table                                                                          | 2024 April 14        |
+| Version 0.2 |  Clarified the instructions in the README.md file.                                                                                         |  2024  April 20      | 
 
 ## Funding
 - NIH R01 CA242845
