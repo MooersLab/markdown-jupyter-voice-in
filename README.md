@@ -3,9 +3,11 @@
 
 # Markdown snippets for Jupyter in Voice-In Plus
 
-This is a collection of about 90 voice snippets to support writing in markdown cells of Jupyter notebooks using the Voice In Plus plug-in for Google Chrome and Microsoft Edge web browsers.  
-The voice triggers and their associated text replacements are stored in the left and right  columns /CSV file.
+This is a collection of about 90 voice snippets to support writing in markdown cells of Jupyter notebooks using the Voice In Plus plug-in for Google Chrome and Microsoft Edge web browsers.
+The voice triggers and associated text replacements are stored in the left and right columns of the *markdown.csv* file.
+Read this file to learn tab triggers.
 
+## Installation and use
 
 1. Load the markdown.csv file by copying its contents and pasting these into the text area opened by double-clicking on the **bulk add** button on the configuration page for your Voice In Plus account.
 2. Any existing voice commands with the same voice trigger (i.e., voice command in the left column) will be overwritten.
