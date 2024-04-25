@@ -9,7 +9,12 @@ Read this file to learn tab triggers.
 
 ## Demo video
 
-<img width="1861" alt="markdown" src="https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/bd9855b2-9195-493f-84b2-0575f02a17f7">
+
+
+https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-dbfa-4998-8f26-5b8dec5a6f0e
+
+
+
 
 ## Installation and use
 
