@@ -11,6 +11,7 @@ Read this file to learn tab triggers.
 Demo includes using built-in `Voice In` commands to delete wrong words and start new lines.
 
 Note that the imaginary *i*'s were capitalized in the rendered equation by mistake; they are in lowercase in the LaTeX code inserted by Voice In Plus.
+The equation renders correctly in [latexit](https://pierre.chachatelier.fr/latexit).
 MathJaX is the source of the error.
 
 
