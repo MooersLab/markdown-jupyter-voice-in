@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=markdown-jupyter-voice-in&message=0.2&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=markdown-jupyter-voice-in&message=0.2.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Markdown snippets for Jupyter in Voice-In Plus
@@ -8,7 +8,8 @@ The voice triggers and associated text replacements are stored in the left and r
 Read this file to learn tab triggers.
 
 ## Demo video
-
+Demo includes the use of Voice In commands to delete wrong words and start new lines.
+Note that the imaginary *i*'s were capitalized in the rendered equation by mistake; they are in lowercase in the LaTeX code inserted by Voice In Plus.
 
 
 https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-dbfa-4998-8f26-5b8dec5a6f0e
@@ -28,11 +29,12 @@ https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-
 
 
 ## Update Table
-|Version      | Changes                                                                                                                                    | Date                 |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.1 |  Initiated  with 90 voice snippets. Added badges and update table                                                                          | 2024 April 14        |
-| Version 0.2 |  Clarified the instructions in the README.md file.                                                                                         | 2024  April 20      | 
-
+|Version        | Changes                                                                                                                                    | Date                 |
+|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.1   |  Initiated  with 90 voice snippets. Added badges and update table                                                                          | 2024 April 14        |
+| Version 0.2   |  Clarified the instructions in the README.md file.                                                                                         | 2024 April 20        | 
+| Version 0.2.1 | Added demo video to README.md file.                                                                                                        | 2024 Apirl 25        |
+ 
 ## Funding
 - NIH R01 CA242845
 - NIH R01 AI088011
