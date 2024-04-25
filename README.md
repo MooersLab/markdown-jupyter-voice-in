@@ -7,6 +7,10 @@ This is a collection of about 90 voice snippets to support writing in markdown c
 The voice triggers and associated text replacements are stored in the left and right columns of the *markdown.csv* file.
 Read this file to learn tab triggers.
 
+## Demo video
+
+<img width="1861" alt="markdown" src="https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/bd9855b2-9195-493f-84b2-0575f02a17f7">
+
 ## Installation and use
 
 1. Load the markdown.csv file by copying its contents and pasting these into the text area opened by double-clicking on the **bulk add** button on the configuration page for your Voice In Plus account.
