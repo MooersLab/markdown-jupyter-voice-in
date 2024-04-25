@@ -8,8 +8,10 @@ The voice triggers and associated text replacements are stored in the left and r
 Read this file to learn tab triggers.
 
 ## Demo video
-Demo includes the use of Voice In commands to delete wrong words and start new lines.
+Demo includes using built-in `Voice In` commands to delete wrong words and start new lines.
+
 Note that the imaginary *i*'s were capitalized in the rendered equation by mistake; they are in lowercase in the LaTeX code inserted by Voice In Plus.
+MathJaX is the source of the error.
 
 
 https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-dbfa-4998-8f26-5b8dec5a6f0e
