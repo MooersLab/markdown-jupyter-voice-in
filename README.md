@@ -18,6 +18,10 @@ MathJaX is the source of the error.
 https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-dbfa-4998-8f26-5b8dec5a6f0e
 
 
+## Correction for use with MathJaX
+
+
+
 
 
 ## Installation and use
