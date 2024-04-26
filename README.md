@@ -20,9 +20,13 @@ https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-
 
 ## Correction for use with MathJaX
 
+Old:
 
+$$\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textstyle\sum\limits_{l} |F (hkl)| \exp [- 2 \pi i (hx + ky + lz)+ i \alpha (hkl)]$$
 
+Corrected:
 
+$$\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textstyle\sum\limits_{l} |F (hkl)| \exp [- 2 \pi \imaginary (hx + ky + lz)+ \imaginary \alpha (hkl)]$$
 
 ## Installation and use
 
