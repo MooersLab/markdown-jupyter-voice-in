@@ -12,21 +12,11 @@ Demo includes using built-in `Voice In` commands to delete wrong words and start
 
 Note that the imaginary *i*'s were capitalized in the rendered equation by mistake; they are in lowercase in the LaTeX code inserted by Voice In Plus.
 The equation renders correctly in [latexit](https://pierre.chachatelier.fr/latexit).
-MathJaX is the source of the error.
+Worked fine when I rendered in Jupyter Lab a week later.
 
 
 https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-dbfa-4998-8f26-5b8dec5a6f0e
 
-
-## Correction for use with MathJaX
-
-Old:
-
-$$\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textstyle\sum\limits_{l} |F (hkl)| \exp [- 2 \pi i (hx + ky + lz)+ i \alpha (hkl)]$$
-
-Corrected:
-
-$$\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textstyle\sum\limits_{l} |F (hkl)| \exp [- 2 \pi \imaginary (hx + ky + lz)+ \imaginary \alpha (hkl)]$$
 
 ## Installation and use
 
@@ -44,7 +34,7 @@ $$\rho (xyz) = (1/V) \textstyle\sum\limits_{h} \textstyle\sum\limits_{k} \textst
 |:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.1   |  Initiated  with 90 voice snippets. Added badges and update table                                                                          | 2024 April 14        |
 | Version 0.2   |  Clarified the instructions in the README.md file.                                                                                         | 2024 April 20        | 
-| Version 0.2.1 | Added demo video to README.md file.                                                                                                        | 2024 Apirl 25        |
+| Version 0.2.1 | Added demo video to README.md file.                                                                                                        | 2024 April 25        |
  
 ## Funding
 - NIH R01 CA242845
