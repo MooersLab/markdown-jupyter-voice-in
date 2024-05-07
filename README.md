@@ -30,7 +30,7 @@ https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-
 
 ## Related repositories
 
-- [Voice snippets for code cells](https://github.com/MooersLab/jupyter-voice-in)
+- [Voice snippets for code cells in Jupyter notebooks](https://github.com/MooersLab/jupyter-voice-in)
 
 ## Update Table
 |Version        | Changes                                                                                                                                    | Date                 |
