@@ -34,7 +34,7 @@ https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-
 
 ## Update Table
 |Version        | Changes                                                                                                                                    | Date                 |
-|:-------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+|:-------------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------:|
 | Version 0.1   | Initiated  with 90 voice snippets. Added badges and update table                                                                           | 2024 April 14        |
 | Version 0.2   | Clarified the instructions in the README.md file.                                                                                          | 2024 April 20        | 
 | Version 0.2.1 | Added demo video to README.md file.                                                                                                        | 2024 April 25        |
