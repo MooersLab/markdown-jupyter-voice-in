@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=markdown-jupyter-voice-in&message=0.2.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=markdown-jupyter-voice-in&message=0.3&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Markdown snippets for Jupyter in Voice-In Plus
@@ -32,12 +32,27 @@ https://github.com/MooersLab/markdown-jupyter-voice-in/assets/15176203/b43a8a17-
 
 - [Voice snippets for code cells in Jupyter notebooks](https://github.com/MooersLab/jupyter-voice-in)
 
+## Related projects
+
+- [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
+- [voice-in-basics-quiz](https://github.com/MooersLab/voice-in-basics-quiz)
+- [arviz-voice-in](https://github.com/MooersLab/arviz-voice-in)
+- [matplotlib-voice-in](https://github.com/MooersLab/matplotlib-voice-in)
+- [pandas-voice-in](https://github.com/MooersLab/pandas-voice-in)
+- [numpy-voice-in](https://github.com/MooersLab/numpy-voice-in)
+- [statsmodels-voice-in](https://github.com/MooersLab/statsmodels-voice-in)
+- [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
+- [python-voice-in](https://github.com/MooersLab/python-voice-in)
+- [cmdstanpy-voice-in](https://github.com/MooersLab/cmdstanpy-voice-in)
+- [scipy-voice-in](https://github.com/MooersLab/scipy-voice-in)
+
 ## Update Table
 |Version        | Changes                                                                                                                                    | Date                 |
 |:-------------|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------:|
 | Version 0.1   | Initiated  with 90 voice snippets. Added badges and update table                                                                           | 2024 April 14        |
 | Version 0.2   | Clarified the instructions in the README.md file.                                                                                          | 2024 April 20        | 
 | Version 0.2.1 | Added demo video to README.md file.                                                                                                        | 2024 April 25        |
+| Version 0.3 | Added demo video to README.md file.                                                                                                        | 2024 August 8        |
  
 ## Funding
 - NIH R01 CA242845
